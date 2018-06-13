@@ -14,3 +14,5 @@ This small Python program can be used to scrape **ball by ball data** of a crick
 
 ### Future Work
 To be added
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)]()
