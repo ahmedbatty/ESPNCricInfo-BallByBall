@@ -1,4 +1,4 @@
-# ESPNCricInfo-BallByBall
+# ESPNCricInfo BallByBall Data Scraper
 This small Python program can be used to scrape **ball by ball data** of a cricket match from **ESPNCricInfo**.
 
 ### Prerequisites
@@ -13,6 +13,8 @@ This small Python program can be used to scrape **ball by ball data** of a crick
 - In the terminal, run: `python3 ball_by_ball.py`
 
 ### Future Work
-To be added
+- Save ball by ball data in csv or json.
+- Allow command line arguments rather than changing the code everytime for giving path to an html page.
+- Scrape data from the webpage without downloading the webpage. (need to check possibility)
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)]()
