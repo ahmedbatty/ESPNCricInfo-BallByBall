@@ -13,7 +13,6 @@ This small Python program can be used to scrape **ball by ball data** of a crick
 - In the terminal, run: `python3 ball_by_ball.py`
 
 ### Future Work
-- Save ball by ball data in csv or json.
 - Allow command line arguments rather than changing the code everytime for giving path to an html page.
 - Scrape data from the webpage without downloading the webpage. (need to check possibility)
 
