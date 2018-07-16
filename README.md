@@ -15,5 +15,6 @@ This small Python program can be used to scrape **ball by ball data** of a crick
 ### Future Work
 - Allow command line arguments rather than changing the code everytime for giving path to an html page.
 - Scrape data from the webpage without downloading the webpage. (need to check possibility)
+- Add functionality to remove HTML tags and garbage text from the commentary.
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)]()
