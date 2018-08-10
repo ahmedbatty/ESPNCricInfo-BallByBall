@@ -1,6 +1,7 @@
 # import required packages
 import urllib.request as urllib2
 import pandas as pd
+import numpy as np
 from bs4 import BeautifulSoup
 
 
